@@ -1,0 +1,27 @@
+img{
+    display: block;
+    
+  }
+  #image{
+    height: auto;
+    max-width: 100%;
+      position: relative;
+      justify-content: center;
+    
+  }
+  main {
+    margin: 0 auto;
+    width: 100%;
+    background-color: #0222
+  }
+  #title {
+    Margin: 0 auto;
+    width: 50%;
+  }
+  #sub{
+    margin: 0 auto;
+    width: 40%;
+  }
+  body{
+    background-color: black
+  }
